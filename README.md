@@ -1,2 +1,1 @@
-# IDA
-Starting work place for internal stuff (image, anomaly, data quality) - might be split into branches larer on
+Starting work place for internal projects (anomaly/outliers, data quality/profiling, image analysis) - might be split into branches later on
